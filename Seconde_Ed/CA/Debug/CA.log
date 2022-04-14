@@ -1,0 +1,7 @@
+﻿  CA.cpp
+  Matrix.cpp
+  Создание кода...
+C:\Users\User\source\repos\CA_1\CA\Matrix.cpp(97): warning C4715: Matrix::operator+: значение возвращается не при всех путях выполнения
+C:\Users\User\source\repos\CA_1\CA\Matrix.cpp(112): warning C4715: Matrix::operator-: значение возвращается не при всех путях выполнения
+C:\Users\User\source\repos\CA_1\CA\Matrix.cpp(157): warning C4715: Matrix::operator*: значение возвращается не при всех путях выполнения
+  CA.vcxproj -> C:\Users\User\source\repos\CA_1\Debug\CA.exe
